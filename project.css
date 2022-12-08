@@ -1,0 +1,39 @@
+#project {
+	text-align: center;
+	color: darkgreen;
+	background-image: url('images/theme.jpeg');
+}
+
+#index {
+	background-color: white;
+	text-align: center;
+}
+
+img	{
+	width: 250px;
+	height: 250px;
+}
+
+#btn {
+	background-color: darkgreen;
+	color: white;
+	border-radius: 5px;
+}
+
+#btn:hover {
+	color: red;
+}
+
+table {
+	width: 60%;
+	text-align: left;
+	border: none;
+	border-radius: 5px;
+	background-color: seashell;
+	padding: 5px;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
